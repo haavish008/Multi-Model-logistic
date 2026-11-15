@@ -1,0 +1,37 @@
+
+# Data processing
+numpy
+pandas
+scipy
+scikit-learn
+
+# Geospatial analysis
+geopandas
+shapely
+pyproj
+pyogrio
+rasterio
+
+# Weather and NetCDF
+xarray
+netCDF4
+rioxarray
+
+# Graph and route optimization
+networkx
+
+# Machine learning and deep learning
+torch
+torch-geometric
+
+# Visualization
+matplotlib
+plotly
+folium
+
+# Dashboard
+streamlit
+
+# Utilities
+tqdm
+joblib
